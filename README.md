@@ -17,9 +17,9 @@
 *For more info: [Boto3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/dynamodb.html)* <br>
 *Note: Can be used with other AWS resources e.g. S3 bucket* <br>
 > To initialise: <br>
-> Go to your AWS IAM and create access key and secret access key <br>
-> Create dev.env file in your root folder <br>
-> Paste access keys and your AWS region in your dev.env file <br>
+> 1. Go to your AWS IAM and create access key and secret access key <br>
+> 2. Create dev.env file in your root folder <br>
+> 3. Paste access keys and your AWS region in your dev.env file <br>
 > ` AWS_ACCESS_KEY_ID='your_access_key' ` <br>
 `AWS_SECRET_ACCESS_KEY='your_secret_access_key'` <br>
 `REGION_NAME='us-west-1'` <br>
