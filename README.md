@@ -8,7 +8,7 @@
 *For standard web application using MongoDB with SpringSecurity*
 <br>
 #### Template-2 <br>
-*For standard web application using mySQL with SpringSecurity*
+*For standard web application using mySQL*
 <br>
 <br>
 # Starter Flask Project
